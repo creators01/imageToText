@@ -1,6 +1,6 @@
 # imageToText
 ## This Python Script Extract text from Image
-##This is important for you to read this before taking any step
+### This is important for you to read this before taking any step
 
 *step1:- Go to website https://github.com/UB-Mannheim/tesseract/wiki to downlaod
 *step2:- Downlaod Tesseract installer for Windows according to your bit whether it 32 bit or 64 bit operating system
