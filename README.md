@@ -11,7 +11,7 @@
         » Then on another screen select Install for anyone use this computer and then click next
         » After this click next next 
         » After all this sudden your install is complete
-#### step4:- Download this repository ImgToText
-#### step5:- After that open the command prompt and install the required libraries for this program
-#### step6:- type (pip install -r requirement.txt)
-#### step7:- open main.py in your any ide whether it is pycharm, spyder, jupyter, or python IDLE
+### step4:- Download this repository ImgToText
+### step5:- After that open the command prompt and install the required libraries for this program
+### step6:- type (pip install -r requirement.txt)
+### step7:- open main.py in your any ide whether it is pycharm, spyder, jupyter, or python IDLE
