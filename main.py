@@ -3,7 +3,9 @@ from app import imgTotext
 
 #lets see how i will import the text from image
 #print(imgTotext('image name with location'))
-#where ('C:\\Users\\Adminsstrator\\Pictures\\club1.png') image is located in your pc
+#where ('club1.png') image is located in your pc
+# like print(imgTotext('C:\\User\\Admininstrator\\Pictures\\club.png")
 # and club1.png is file name
-print(imgTotext('C:\\Users\\Administrator\\Pictures\\club1.png'))
+
+print(imgTotext('club1.png'))
 
